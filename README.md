@@ -4,7 +4,7 @@
 
 ## OVERVIEW
 
-Cinescope studios wants to start a new businness venture of creating original video content specifically movies, but do not know much about the industry. 
+Top Talent studios wants to start a new businness venture of creating original video content specifically movies, but do not know much about the industry. 
 The project analyzes data from various locations; IMDB,TheMovieDB, BoxOfficeMojo etc. to come up with insights on which types of films are currently doing best at the box office.
     
 The findings from the project will help the company choose what type of films to produce based on production budgets and revenues, bestselling genres, trends in movie genres and production styles and top performing writers and directors in the industry.
