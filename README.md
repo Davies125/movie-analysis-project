@@ -1,3 +1,4 @@
+
 # MOVIE PRODUCTION ANALYSIS.
 
 
@@ -108,39 +109,3 @@ The new studio should therefore balance its finances to cater for marketing stra
 ### Drama, Mystery and Suspense Genre performs best in terms of profit and ratings.
 
 Although genre does not really affect audience ratings or profit, drama,mystery and suspense genre showed to have the highest ratings and profit generation compared to the other genres. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
