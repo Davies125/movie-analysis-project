@@ -44,19 +44,19 @@ Plotted a scatter plot to show:
 a. audience ratings on the different genres, to show the one that receives most ratings.
 Drama|Horror and Drama|Mystery|Suspense are suitable genres for the studio due to the high ratings.
 
-![scatter Plot](genre_ratings.png)
+![scatter Plot](Images/genre_ratings.png)
 
 
 b. top performing writers and directors in the industry, for us to work with.
 
 Trey Edward Shults and Clint Eastwood are possible directors to work with the studio.
-![directors' Plot](director_ratings.png)
+![directors' Plot](Images/director_ratings.png)
 
 Trey Edward SHults and Brian Helgeland should be hired into the studio as writers.
-![writers' Plot](writer_ratings.png)
+![writers' Plot](Images/writer_ratings.png)
 
 c. genre that generates most revenues for the studios.
-![revenue Plot](genre_revenue.png)
+![revenue Plot](Images/genre_revenue.png)
 
 ###### Hypothesis testing and statistical tests 
 Formulated two hypotheses;
@@ -102,7 +102,7 @@ Our hypotheses questions both failed to reject the null hypothesis.
 
 ### Regression modelling.
 
-![regression Plot](regression_plot.png)
+![regression Plot](Images/regression_plot.png)
 
 Observation: The regression plot shows a positive linear relationship between production budget and worldwide gross revenue.
 The scatter suggests variability increases with budget, meaning high-budget films have less predictable returns.
